@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task Manager", "Main\Task Manager.csproj", "{FCC223C8-C4AF-4990-A50E-B78744E229CB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study guid chapter 9", "Study guid chapter 9\Study guid chapter 9.csproj", "{FBA15CA2-C9CB-4E9A-A0CD-1AC762AAEC3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankDll", "BankDll\BankDll.csproj", "{C55830C8-6580-44E2-87AD-81E44E78A2B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{FCC223C8-C4AF-4990-A50E-B78744E229CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCC223C8-C4AF-4990-A50E-B78744E229CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCC223C8-C4AF-4990-A50E-B78744E229CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBA15CA2-C9CB-4E9A-A0CD-1AC762AAEC3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA15CA2-C9CB-4E9A-A0CD-1AC762AAEC3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA15CA2-C9CB-4E9A-A0CD-1AC762AAEC3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA15CA2-C9CB-4E9A-A0CD-1AC762AAEC3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C55830C8-6580-44E2-87AD-81E44E78A2B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55830C8-6580-44E2-87AD-81E44E78A2B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C55830C8-6580-44E2-87AD-81E44E78A2B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C55830C8-6580-44E2-87AD-81E44E78A2B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
