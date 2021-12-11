@@ -22,6 +22,9 @@ namespace Study_guid_chapter_9
             firstAccount.Dispose();
             secondAccount.Dispose();
 
+            //ht9.1
+            Song mySong = new Song();
+
             Console.ReadKey();
         }
     }

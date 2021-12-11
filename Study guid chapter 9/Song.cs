@@ -22,6 +22,9 @@ namespace Study_guid_chapter_9
             this.author = author;
             this.previous_song = previous_song;
         }
+        public Song()
+        {
+        }
         public string Name
         {
             get
